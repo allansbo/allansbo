@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Allan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/allansbo/allansbo/blob/main/developer.gif?raw=true" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/allansbo/allansbo/blob/main/developer.gif?raw=true" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Django and Python Application Development

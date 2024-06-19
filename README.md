@@ -7,12 +7,6 @@
 - 🎓 &nbsp; Studying Systems Analysis and Development and computer programming.
 - 💼 &nbsp; Looking for my first job as a systems developer.
 - ✍️ &nbsp; Watching TV Series and trying out latest design trends as hobbies/side hustles.
-
-<h2>How to find me</h2
-
-[![Linkedin Badge](https://img.shields.io/badge/-allansbo-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/allansbo)](https://www.linkedin.com/in/allansbo)
-[![Instagram Badge](https://img.shields.io/badge/-@allan.sbo-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.sbo//)](https://www.instagram.com/allan.sbo/)
-[![Gmail Badge](https://img.shields.io/badge/-92allan.s-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:92allan.s@gmail.com)](mailto:92allan.s@gmail.com)
   
   
   ![Allansbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=allansbo&theme=default&show_icons=true)
